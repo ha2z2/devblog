@@ -9,3 +9,5 @@ categories: development
 [publication link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3679476/)
 
 ## Introducing
+
+Research showing that cognitive training protocols can improve visual attention, inhibition or conflict-related attention, working memory and reasoning occasionally show improvements limited to the trained tasks but rarely to broader abilities.
