@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Walkthrough Guide for Simon Tatham's Rectangles"
-date:   2022-12-26 17:43:"16 +0900
+date:   2022-12-26 08:43:"16 +0900
 categories: development
 ---
 

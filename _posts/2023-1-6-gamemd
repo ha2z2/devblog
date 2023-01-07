@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Memory Cards"
+date:   2022-1-6 08:43:"16 +0900
+categories: development
+---
+
+## Walkthrough for Memory Cards Game
+
+![image](https://res.cloudinary.com/dznwwygdp/image/upload/v1673053899/Screen_Shot_2023-01-06_at_8.08.04_PM_ugxvom.png)
+
+The main problem with creating an app that is able to execute a game like this is the limited amount of images that could be put to a GUI(Graphics User Interface) in a specific scenario such as this
+
+Thus, the main component of this game (which I intended was the variety of customization available for the user) would not be able to succeed.
+
+## Alternative for the Issue
+
+A solution I had envisioned was using a collection of words.
+
+This is quite simple, but it maintains the primary and foremost most vital part of the App: Aiming/Helping to prevent Memory Loss (especially) for the elderly.
+
+Though my solution limits the variety of options that could be implemented, this is a practical solution that allows a new, hybrid selection of variety(though not initially intended in this particular way).
+
+## Words
+
+By conducting further research on what selection of different words allow memory loss to be prevented, this game would become even more centered around preventing Alzheimer's disease.
